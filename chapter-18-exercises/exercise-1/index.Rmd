@@ -1,0 +1,30 @@
+---
+title: "R Markdown Notes"
+author: "Tia Lee"
+date: "2/11/2020"
+output: html_document
+---
+
+```{r, example, echo = FALSE}
+
+img_uri <- "https://images.app.goo.gl/dKThWwsKXUgTmRzB7"
+img_markdown <- paste0("![puppies](", img_uri, ")")
+```
+
+`r img_markdown`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
